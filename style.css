@@ -17,7 +17,7 @@ body{
     height: 325px;
     flex-wrap: wrap;
     align-content: center;
-    font-size: 2rem;
+    font-size: 1.5rem;
     border: 2px solid;
 }
 .square{
